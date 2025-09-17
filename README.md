@@ -1,6 +1,5 @@
 # 💫About Me :
  👋 Hi there! I'm 0XXQZ, passionate about coding and building cool stuff.
-💻 Learn and work with C/C++Learn and work with C/C++.
 🚀 Always learning, always hacking.
 
 # 💻Tech Stack
