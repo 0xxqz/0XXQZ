@@ -7,9 +7,21 @@
 ![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=0XXQZ&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0XXQZ&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0XXQZ&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Python**  
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+`█████████████████████████████████████░░░░░░░░░░░` 60%
+
+**C**  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
+`███████████████████████████████████████████░░░░` 70%
+
+**JavaScript**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
+`███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 30%
+
+**GoLand**  
+![GoLand](https://img.shields.io/badge/-GoLand-000000?style=flat&logo=goland&logoColor=white)  
+`█████████████████░░░░░░░░░░░░░░░░░░░░░░░░░` 35%
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
